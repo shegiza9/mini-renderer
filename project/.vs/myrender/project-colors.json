@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71b0d3a8-eeeb-4784-963d-0eb4d902eb82": {
+      "ProjectGuid": "71b0d3a8-eeeb-4784-963d-0eb4d902eb82",
+      "DisplayName": "myrender",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
